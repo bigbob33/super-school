@@ -8,5 +8,5 @@ Rails.application.routes.draw do
 
   resources :teachers
 
-  get "reports/subjects"
+  get "report/subjects", :to => 'reports#subjects'
 end
