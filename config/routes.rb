@@ -6,5 +6,7 @@ Rails.application.routes.draw do
     get :subjects
   end
 
+  resources :teachers
+
   get "reports/subjects"
 end
