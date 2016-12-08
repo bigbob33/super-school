@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/bigbob33/super-school.svg?branch=master)](https://travis-ci.org/bigbob33/super-school)
 RoR Workshops
 ================
 
